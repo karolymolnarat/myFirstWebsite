@@ -8,10 +8,12 @@ body
 
 ul {
   list-style-type: none;
-  margin: 0;
+  margin-left: 0;
+  
+
   padding-left: 870px;
   overflow: hidden;
-  background-color: #333;
+  background-color: rgb(68, 59, 59);
 }
 
 li {
@@ -23,11 +25,11 @@ li a {
   color:pink;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 li a:hover {
-  background-color: #111;
+  background-color: rgb(12, 2, 2);
 }
 h1 {
   font-size: 60px;
@@ -55,6 +57,4 @@ section {
   line-height: 40px;
 }
 
-li a:hover {
-  background-color: #111;
-}
+
