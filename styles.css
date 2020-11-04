@@ -1,0 +1,60 @@
+body
+ {
+  background-image: url("/myFirstWebsite/assets/topography/topography.png");
+
+  font-family: conso;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 870px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color:pink;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+h1 {
+  font-size: 60px;
+}
+h2 {
+  font-size: 30px;
+  color: rgb(167, 121, 129);
+}
+h3 {
+  text-align: center;
+  font-size: 30px;
+}
+h4 {
+  font-size: 30px;
+}
+
+article {
+  padding-left: 120px;
+  padding-top: 60px;
+}
+
+section {
+  padding-left: 120px;
+  padding-top: 60px;
+  line-height: 40px;
+}
+
+li a:hover {
+  background-color: #111;
+}
